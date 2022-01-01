@@ -4,7 +4,7 @@
       const res = document.getElementById('info')
       res.innerHTML += `
           <div class="images">
-              <img src="${image.src.medium}"/>
+              <img src="${image.src.tiny}"/>
           </div>
       `
     })
